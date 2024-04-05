@@ -1,0 +1,52 @@
+[
+{
+             "category": "Misc",
+             "id": "3cad9630-23ad-4c98-92f2-9499f3f55fc7",
+             "content": "Why was the river rich? \nBecause it had two banks."
+         },
+         {
+             "category": "Misc",
+             "id": "1a01366b-91b8-4918-8fb9-ca56db2ad21e",
+             "content": "What do you use to blindfold an Asian?\nFloss."
+         },
+         {
+             "category": "Pun",
+             "id": "76aae825-36c3-4ecb-b840-4d38c995d6b4",
+             "content": "How did Harry Potter get down the hill? Walking...\nJK, Rolling."
+         },
+         {
+             "category": "Dark",
+             "id": "4b59de25-1a13-4f97-a670-d21aa0883128",
+             "content": "I told my psychiatrist I got suicidal tendencies. \nHe said from now on I have to pay in advance."
+         },
+         {
+             "category": "Programming",
+             "id": "74c1210f-3574-4f11-976a-103f645c6555",
+             "content": "Why did the programmer jump on the table? \nBecause debug was on his screen."
+         },
+         {
+             "category": "Misc",
+             "id": "6ab032ac-c5b4-4634-85ec-c4ba9a10449b",
+             "content": "I went to the zoo the other day. \nThere was only a dog in it – it was a shihtzu."
+         },
+         {
+             "category": "Programming",
+             "id": "e9faa260-5509-406d-9d4a-36c433d512ab",
+             "content": "A man is smoking a cigarette and blowing smoke rings into the air. \nHis girlfriend becomes irritated with the smoke and says \"Can't you see the warning on the cigarette pack? \nSmoking is hazardous to your health!\" to which the man replies, \"I am a programmer.  We don't worry about warnings; we only worry about errors.\""
+         },
+         {
+             "category": "Pun",
+             "id": "6425c249-c0d7-463f-80f1-89d31decbd28",
+             "content": "What does a perverted frog say? Rubbit."
+         },
+         {
+             "category": "Dark",
+             "id": "91cc2f6c-9d21-471a-8a16-31e1903988da",
+             "content": "My girlfriend's dog died, so I tried to cheer her up by getting her an identical one. It just made her more upset. \nShe screamed at me, \"What am I supposed to do with two dead dogs?\""
+         },
+         {
+             "category": "Programming",
+             "id": "ebcd12a7-8985-4226-9412-389d9292fd27",
+             "content": "Two SQL tables sit at the bar. A query approaches and asks \"Can I join you?\""
+         }
+         ]
