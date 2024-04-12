@@ -7,8 +7,9 @@ import java.nio.file.Paths;
 
 public class Framework {
     public static void main(String[] args) throws InvocationTargetException, NoSuchMethodException, InstantiationException, IllegalAccessException, ParseException, IOException {
-        //File file = Paths.get("jokes.txt").toFile();
-        new ObjectMapperJson().readValue("jokes.txt", Joke.class);
+
+        new ObjectMapperJson().readValue("src/main/resources/1.json", Joke.class);
+        new ObjectMapperJson().readValue("src/main/resources/jokes.txt", Joke.class);
 
     }
 }
