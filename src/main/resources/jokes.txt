@@ -1,5 +1,4 @@
-[
-{
+[{
              "category": "Misc",
              "id": "3cad9630-23ad-4c98-92f2-9499f3f55fc7",
              "content": "Why was the river rich? \nBecause it had two banks."

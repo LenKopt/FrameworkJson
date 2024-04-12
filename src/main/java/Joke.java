@@ -6,6 +6,5 @@ public class Joke {
     private String category;
 
     private Joke(){
-
     }
 }
