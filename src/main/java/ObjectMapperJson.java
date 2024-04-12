@@ -1,11 +1,3 @@
-1. Implementacja interfejsu konsolowego. Wyświetlenie jednego losowego żartu z pamięci.
-        2. Wyświetlenie jednego żartu z pamięci zgodnie z podaną przez użytkownika kategorją. Modyfikacja interfejsu.
-        3. Dodanie możliwości pobierania jednego żartu z internetu. Modyfikacja interfejsu.
-
-        1. Jako użytkownik chciałabym otrzymać taką aplikację, która umożliwiłaby otrzymywanie żarty
-        4. Jako użytkownik chciałabym, aby była możliwość domonstracji wszystkich istniejących kategorji
-        2. Jako użytkowniku, było by mi wygodnie otrzymać żart na określony temat
-        3. Jako użytkownik chciałabym, żeby baza żartów się rozszeżała, bo podczas wielokrotnego korzystania z aplikacji żarty powtarzają się dość często
 
 import org.json.simple.JSONArray;
 import org.json.simple.JSONObject;
